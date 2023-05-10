@@ -4,7 +4,6 @@
 ### 專案開發環境
 - node.js 環境
 - express 框架
-- express-handlebars 樣板引擎
 
 #### 操作
 - Step1. 確認安裝 node.js 與 npm
