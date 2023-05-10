@@ -35,7 +35,7 @@ App is running on http://localhost:3000
 ```bash
 http://localhost:3000/users
 ```
-- Step7. 如欲暫停伺服器，請切換至終端機並且
+- Step7. 如需暫停伺服器，請切換至終端機並且
 ```bash
 ctrl+c
 ```
