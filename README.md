@@ -41,6 +41,6 @@ ctrl+c
 ```
 
 ##### 開發工具
-- Node.js v14.16.0
+- Node.js v14.21.3
 - Express 4.18.2
 - @faker-js/faker @7.6.0
